@@ -15,13 +15,16 @@
 ### STEP 5: Click on 'Start Process' to begin the process.
 ### STEP 6: After the process is complete click on 'Stop Process' to view product generated using FDM process.
 
-## OUTPUT:
+## INPUT:
 ![![image](https://github.com/GUGHAN-3001/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/150009432/2bb1b77f-a8a9-41bd-a602-b05a9200e3e7)
 ![![image](https://github.com/GUGHAN-3001/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/150009432/6cff69f5-44ab-4ea4-9dc7-65e161cb08de)
 ![![image](https://github.com/GUGHAN-3001/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/150009432/da1472bd-c089-4e6d-bd6e-8765aae1c17e)
 
 
-## Output:
+## OUTPUT:
+![![image](https://github.com/GUGHAN-3001/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/150009432/2bb1b77f-a8a9-41bd-a602-b05a9200e3e7)
+![![image](https://github.com/GUGHAN-3001/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/150009432/6cff69f5-44ab-4ea4-9dc7-65e161cb08de)
+![![image](https://github.com/GUGHAN-3001/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/150009432/da1472bd-c089-4e6d-bd6e-8765aae1c17e)
 
 ### Name: GUGHAN S
 ### Register Number:23004693
